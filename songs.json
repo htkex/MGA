@@ -69,7 +69,7 @@
     "lyrics": ""
   },
   {
-    "id": "",
+    "id": "4",
     "title": "アンゼンパイ",
     "jacket_image": "https://example.com/image1.jpg",
     "artist": "Mrs.GREEN APPLE",
@@ -91,4 +91,27 @@
     "live_performances": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
     "lyrics": ""
   },
+  {
+    "id": "5",
+    "title": "アンゼンパイ",
+    "jacket_image": "https://example.com/image1.jpg",
+    "artist": "Mrs.GREEN APPLE",
+    "lyricist": "大森元貴",
+    "composer": "大森元貴",
+    "album": ["Progressive"],
+    "release_date": "2015-02-18",
+    "key": "F Major",
+    "bpm": "198",
+    "highest_note": "hiC(C5)",
+    "lowest_note": "mid1C(C3)",
+    "modulations": "0",
+    "duration": "4:27",
+    "genre": "ロック",
+    "awards": [""],
+    "tie_up": [""],
+    "mv_link": "https://www.youtube.com/watch?v=OqEVEShYOv8",
+    "spotify_link": "https://open.spotify.com/intl-ja/track/1F5DufbRYsZXcBj8lOHgpH?si=f8bc8bfdf6784100",
+    "live_performances": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
+    "lyrics": ""
+  }
 ]
