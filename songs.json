@@ -50,7 +50,7 @@
 傷を癒して 心撫で合って
 人は、人は 
 
-笑顔であってほしいな",
+笑顔であってほしいな"
   },
   {
     "id": "2",
@@ -94,7 +94,7 @@
     "mv_link": "https://youtube.com/xxxx",
     "spotify_link": "https://open.spotify.com/track/xxxx",
     "live_performances": ["ライブ名1 日付", "ライブ名2 日付"]
-    "lyrics": "ここに歌詞を入れる",
+    "lyrics": "ここに歌詞を入れる"
   },
   {
     "id": "4",
@@ -115,6 +115,6 @@
     "mv_link": "https://youtube.com/yyyy",
     "spotify_link": "https://open.spotify.com/track/yyyy",
     "live_performances": []
-    "lyrics": "ここに歌詞を入れる",
+    "lyrics": "ここに歌詞を入れる"
    }
 ]
