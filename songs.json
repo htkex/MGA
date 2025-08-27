@@ -6,12 +6,12 @@
     "artist": "Mrs.GREEN APPLE",
     "lyricist": "大森元貴",
     "composer": "大森元貴",
-    "album": ["Progressive", "5"]
+    "album": ["Progressive", "5"],
     "release_date": "2015-02-18",
     "key": "F Major",
     "bpm": "198",
-    "highest_note": "hiC(C5)"
-    "lowest_note": "mid1C(C3)"
+    "highest_note": "hiC(C5)",
+    "lowest_note": "mid1C(C3)",
     "modulations": "0",
     "duration": "3:20",
     "genre": "ロック",
@@ -19,38 +19,8 @@
     "tie_up": [""],
     "mv_link": "https://www.youtube.com/watch?v=OqEVEShYOv8",
     "spotify_link": "https://open.spotify.com/intl-ja/track/1F5DufbRYsZXcBj8lOHgpH?si=f8bc8bfdf6784100",
-    "live_performances": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""]
-    "lyrics": "「嫌いになった人は全部
-少しの仕草でもダメになっちゃう
-気づけば嫌い探しです
-そんな私の憂いを綺麗に洗ってください」
-
-貴方はその傷を
-癒してくれる人といつか出会って
-貴方の優しさで
-救われるような世界で在ってほしいな
-
-例えば「出逢い」なんて無く
-例えば「貴方」なんて居なく、
-そしたら そう間違いなく
-独りは寂しく悲しいから息を止めるんだろう。
-
-貴方は優しさで
-傷を負う日もあるけど笑って
-でも貴方の微笑みだけじゃ
-救われない世界が心底嫌いになりそうだ
-
-貴方はその傷を
-癒してくれる人といつか出会って
-貴方の優しさで
-救われるような世界で在ってほしいな
-
-誰かは出会って誰かは好いて
-誰かは嫌って 人は人は
-傷を癒して 心撫で合って
-人は、人は 
-
-笑顔であってほしいな"
+    "live_performances": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
+    "lyrics": "「嫌いになった人は全部\n少しの仕草でもダメになっちゃう\n気づけば嫌い探しです\nそんな私の憂いを綺麗に洗ってください」\n\n貴方はその傷を\n癒してくれる人といつか出会って\n貴方の優しさで\n救われるような世界で在ってほしいな\n\n例えば「出逢い」なんて無く\n例えば「貴方」なんて居なく、\nそしたら そう間違いなく\n独りは寂しく悲しいから息を止めるんだろう。\n\n貴方は優しさで\n傷を負う日もあるけど笑って\nでも貴方の微笑みだけじゃ\n救われない世界が心底嫌いになりそうだ\n\n貴方はその傷を\n癒してくれる人といつか出会って\n貴方の優しさで\n救われるような世界で在ってほしいな\n\n誰かは出会って誰かは好いて\n誰かは嫌って 人は人は\n傷を癒して 心撫で合って\n人は、人は \n\n笑顔であってほしいな"
   },
   {
     "id": "2",
@@ -59,62 +29,66 @@
     "artist": "Mrs.GREEN APPLE",
     "lyricist": "大森元貴",
     "composer": "大森元貴",
-    "album": ["Progressive"]
+    "album": ["Progressive"],
     "release_date": "2015-02-18",
     "key": "F Major",
     "bpm": "198",
-    "highest_note": "hiC(C5)"
-    "lowest_note": "mid1C(C3)"
+    "highest_note": "hiC(C5)",
+    "lowest_note": "mid1C(C3)",
     "modulations": "0",
-    "duration": "3:20",
+    "duration": "3:32",
     "genre": "ロック",
     "awards": [""],
     "tie_up": [""],
     "mv_link": "https://www.youtube.com/watch?v=OqEVEShYOv8",
     "spotify_link": "https://open.spotify.com/intl-ja/track/1F5DufbRYsZXcBj8lOHgpH?si=f8bc8bfdf6784100",
-    "live_performances": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""]
-    "lyrics": "",
+    "live_performances": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
+    "lyrics": ""
   },
   {
     "id": "3",
-    "title": "曲名1",
+    "title": "CONFLICT",
     "jacket_image": "https://example.com/image1.jpg",
-    "artist": "アーティスト名",
-    "lyricist": "作詞者名",
+    "artist": "Mrs.GREEN APPLE",
+    "lyricist": "大森元貴",
     "composer": "大森元貴",
-    "album": "収録アルバム名",
-    "release_date": "YYYY-MM-DD",
-    "key": "C Major",
-    "tempo": 120,
-    "modulations": 2,
-    "duration": "3:45",
-    "genre": "J-POP",
-    "awards": ["受賞歴1", "受賞歴2"],
-    "tie_up": ["アニメタイアップ名", "CMタイアップ名"],
-    "mv_link": "https://youtube.com/xxxx",
-    "spotify_link": "https://open.spotify.com/track/xxxx",
-    "live_performances": ["ライブ名1 日付", "ライブ名2 日付"]
-    "lyrics": "ここに歌詞を入れる"
+    "album": ["Progressive"],
+    "release_date": "2015-02-18",
+    "key": "F Major",
+    "bpm": "198",
+    "highest_note": "hiC(C5)",
+    "lowest_note": "mid1C(C3)",
+    "modulations": "0",
+    "duration": "4:45",
+    "genre": "ロック",
+    "awards": [""],
+    "tie_up": [""],
+    "mv_link": "https://www.youtube.com/watch?v=OqEVEShYOv8",
+    "spotify_link": "https://open.spotify.com/intl-ja/track/1F5DufbRYsZXcBj8lOHgpH?si=f8bc8bfdf6784100",
+    "live_performances": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
+    "lyrics": ""
   },
   {
-    "id": "4",
-    "title": "曲名2",
-    "jacket_image": "https://example.com/image2.jpg",
-    "artist": "アーティスト名",
-    "lyricist": "作詞者名",
+    "id": "",
+    "title": "アンゼンパイ",
+    "jacket_image": "https://example.com/image1.jpg",
+    "artist": "Mrs.GREEN APPLE",
+    "lyricist": "大森元貴",
     "composer": "大森元貴",
-    "album": "収録アルバム名",
-    "release_date": "YYYY-MM-DD",
-    "key": "A Minor",
-    "tempo": 95,
-    "modulations": 1,
-    "duration": "4:12",
+    "album": ["Progressive"],
+    "release_date": "2015-02-18",
+    "key": "F Major",
+    "bpm": "198",
+    "highest_note": "hiC(C5)",
+    "lowest_note": "mid1C(C3)",
+    "modulations": "0",
+    "duration": "4:27",
     "genre": "ロック",
-    "awards": [],
-    "tie_up": [],
-    "mv_link": "https://youtube.com/yyyy",
-    "spotify_link": "https://open.spotify.com/track/yyyy",
-    "live_performances": []
-    "lyrics": "ここに歌詞を入れる"
-   }
+    "awards": [""],
+    "tie_up": [""],
+    "mv_link": "https://www.youtube.com/watch?v=OqEVEShYOv8",
+    "spotify_link": "https://open.spotify.com/intl-ja/track/1F5DufbRYsZXcBj8lOHgpH?si=f8bc8bfdf6784100",
+    "live_performances": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
+    "lyrics": ""
+  },
 ]
