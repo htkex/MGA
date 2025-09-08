@@ -289,15 +289,99 @@
   {
     "id": "037",
     "title": "Lion",
-    "album": "サママ・フェスティバル！",
+    "album": "Mrs. GREEN APPLE",
     "release": "2017-01-11",
     "lyrics": ""
   },
   {
-    "id": "037",
+    "id": "038",
     "title": "おもちゃの兵隊",
-    "album": "サママ・フェスティバル！",
+    "album": "Mrs. GREEN APPLE",
     "release": "2017-01-11",
     "lyrics": ""
-  }
+  },
+  {
+    "id": "039",
+    "title": "絶世生物",
+    "album": "Mrs. GREEN APPLE",
+    "release": "2017-01-11",
+    "lyrics": ""
+  },
+  {
+    "id": "040",
+    "title": "soFt-dRink",
+    "album": "Mrs. GREEN APPLE",
+    "release": "2017-01-11",
+    "lyrics": ""
+  },
+  {
+    "id": "041",
+    "title": "鯨の唄",
+    "album": "Mrs. GREEN APPLE",
+    "release": "2017-01-11",
+    "lyrics": ""
+  },
+  {
+    "id": "042",
+    "title": "うブ",
+    "album": "Mrs. GREEN APPLE",
+    "release": "2017-01-11",
+    "lyrics": ""
+  },
+  {
+    "id": "043",
+    "title": "Just a Friend",
+    "album": "Mrs. GREEN APPLE",
+    "release": "2017-01-11",
+    "lyrics": ""
+  },
+  {
+    "id": "044",
+    "title": "JOURNEY",
+    "album": "Mrs. GREEN APPLE",
+    "release": "2017-01-11",
+    "lyrics": ""
+  },
+  {
+    "id": "045",
+    "title": "どこかで日は昇る",
+    "album": "Mrs. GREEN APPLE",
+    "release": "2017-05-03",
+    "lyrics": ""
+  },
+  {
+    "id": "046",
+    "title": "スマイロブドリーマ",
+    "album": "Mrs. GREEN APPLE",
+    "release": "2017-05-03",
+    "lyrics": ""
+  },
+  {
+    "id": "047",
+    "title": "SwitCh",
+    "album": "Mrs. GREEN APPLE",
+    "release": "2017-05-03",
+    "lyrics": ""
+  },
+  {
+    "id": "048",
+    "title": "WanteD! WanteD!",
+    "album": "WanteD! WanteD!",
+    "release": "2017-08-30",
+    "lyrics": ""
+  },
+  {
+    "id": "049",
+    "title": "On My MiND",
+    "album": "WanteD! WanteD!",
+    "release": "2017-08-30",
+    "lyrics": ""
+  },
+  {
+    "id": "050",
+    "title": "光のうた",
+    "album": "WanteD! WanteD!",
+    "release": "2017-08-30",
+    "lyrics": ""
+  },
 ]
